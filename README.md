@@ -1,5 +1,6 @@
-## Object-oriented Programming (Lab Work) Template Guides
-1. Silakan anda upload file java hasil praktikum anda menggunakan NetBeans atau IDE/text editor lainnya dengan mengupload button ADD FILE
-2. Upload juga screenshot hasil latihan dan tugas anda dalam format .JPG atau .JPEG atau .PNG
-3. Setiap file java anda diharuskan untuk memiliki identitas anda dengan menggunakan komentar dengan format berikut "Created by NIM_Nama Lengkap" pada bagian paling atas setiap code anda. contoh: // Created by 1203232_Randi Proska Sandra
-4. Silakan anda edit file README.md ini dengan identitas anda juga serta berikan penjelasan terkait source code yang anda upload. Catatan: Jangan ubah nama file README.md
+// Created by 21343031_Muhammad Reviza Dekry
+
+Pada jobsheet 6 ini kita membahas tentang percabangan if else,switch case
+if merupakan percabangan ketika pemilihan benar,maka akan menjalankan blok program setelah fungsi if,sedangkan else merupakan kondisi dimana kondisi if salah,maka akan menjalankan blok program yang ada di fungsi else
+
+Switch case merupakan percabangan juga yang mirip dengan if else,namun dalam switch case ada break yang berfungsi untuk memberhentikan kasus atau fungsi ketika sudah benar dan default berguna memberikan hasil yang tidak ada dalam case
